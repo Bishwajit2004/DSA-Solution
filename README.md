@@ -12,6 +12,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0047-permutations-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0047-permutations-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0015-3sum](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0047-permutations-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +49,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0020-valid-parentheses/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0047-permutations-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0047-permutations-ii/) | Medium |
 <!---LeetCode Topics End-->
