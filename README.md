@@ -8,11 +8,13 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- | ------- |
 | [0015-3sum](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0016-3sum-closest/) | Medium |
+| [0031-next-permutation](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0031-next-permutation/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0016-3sum-closest/) | Medium |
+| [0031-next-permutation](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0031-next-permutation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
