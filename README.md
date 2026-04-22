@@ -25,6 +25,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0031-next-permutation/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,12 +57,14 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0068-text-justification](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0071-simplify-path/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0071-simplify-path/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
