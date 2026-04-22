@@ -15,6 +15,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0047-permutations-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0047-permutations-ii/) | Medium |
 | [0068-text-justification](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0068-text-justification](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0071-simplify-path/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2262-total-appeal-of-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Stack
@@ -104,4 +106,20 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 <!---LeetCode Topics End-->
