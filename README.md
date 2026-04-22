@@ -47,6 +47,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0013-roman-to-integer](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [2262-total-appeal-of-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2284-sender-with-largest-word-count](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2284-sender-with-largest-word-count/) | Medium |
+| [2384-largest-palindromic-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2384-largest-palindromic-number/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [2262-total-appeal-of-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2284-sender-with-largest-word-count](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2299-strong-password-checker-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2299-strong-password-checker-ii/) | Easy |
+| [2384-largest-palindromic-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -130,4 +132,9 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2284-sender-with-largest-word-count](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2284-sender-with-largest-word-count/) | Medium |
+| [2384-largest-palindromic-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2384-largest-palindromic-number/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2384-largest-palindromic-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2384-largest-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
