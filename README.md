@@ -43,6 +43,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0070-climbing-stairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,12 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0068-text-justification](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0068-text-justification/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
