@@ -43,6 +43,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0013-roman-to-integer/) | Easy |
+| [2262-total-appeal-of-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2262-total-appeal-of-a-string/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0068-text-justification](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0071-simplify-path/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2262-total-appeal-of-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -85,6 +87,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0070-climbing-stairs/) | Easy |
+| [2262-total-appeal-of-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2262-total-appeal-of-a-string/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
