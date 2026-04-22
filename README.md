@@ -15,6 +15,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0047-permutations-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0047-permutations-ii/) | Medium |
 | [0068-text-justification](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0020-valid-parentheses](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0068-text-justification](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0071-simplify-path/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +88,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 <!---LeetCode Topics End-->
