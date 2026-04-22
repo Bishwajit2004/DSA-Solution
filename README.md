@@ -33,6 +33,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0069-sqrtx/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0013-roman-to-integer/) | Easy |
+| [0069-sqrtx](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0069-sqrtx/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
