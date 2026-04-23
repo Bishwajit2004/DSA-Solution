@@ -18,6 +18,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2284-sender-with-largest-word-count](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2615-sum-of-distances](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2615-sum-of-distances/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [2262-total-appeal-of-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2284-sender-with-largest-word-count](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2384-largest-palindromic-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2384-largest-palindromic-number/) | Medium |
+| [2615-sum-of-distances](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2615-sum-of-distances/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,4 +139,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2384-largest-palindromic-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2384-largest-palindromic-number/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2615-sum-of-distances](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2615-sum-of-distances/) | Medium |
 <!---LeetCode Topics End-->
