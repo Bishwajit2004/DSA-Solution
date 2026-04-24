@@ -77,6 +77,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [2299-strong-password-checker-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2299-strong-password-checker-ii/) | Easy |
 | [2384-largest-palindromic-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- | ------- |
 | [2284-sender-with-largest-word-count](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2384-largest-palindromic-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2384-largest-palindromic-number/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
