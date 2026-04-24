@@ -70,6 +70,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0068-text-justification](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0071-simplify-path/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2262-total-appeal-of-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2262-total-appeal-of-a-string/) | Hard |
@@ -100,6 +101,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0068-text-justification](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0068-text-justification/) | Hard |
+| [0657-robot-return-to-origin](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
