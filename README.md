@@ -108,6 +108,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0576-out-of-boundary-paths](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [2262-total-appeal-of-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2262-total-appeal-of-a-string/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
