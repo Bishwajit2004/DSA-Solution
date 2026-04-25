@@ -98,6 +98,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0092-reverse-linked-list-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0092-reverse-linked-list-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
