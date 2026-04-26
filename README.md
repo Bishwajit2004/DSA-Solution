@@ -15,6 +15,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0047-permutations-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0047-permutations-ii/) | Medium |
 | [0068-text-justification](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0218-the-skyline-problem](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0218-the-skyline-problem/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0699-falling-squares](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0699-falling-squares/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -41,6 +42,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0016-3sum-closest](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0047-permutations-ii/) | Medium |
+| [0218-the-skyline-problem](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0218-the-skyline-problem/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -181,9 +183,27 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0218-the-skyline-problem/) | Hard |
 | [0699-falling-squares](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0699-falling-squares/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0218-the-skyline-problem/) | Hard |
 | [0699-falling-squares](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0699-falling-squares/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0218-the-skyline-problem/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0218-the-skyline-problem/) | Hard |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0218-the-skyline-problem/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0218-the-skyline-problem/) | Hard |
 <!---LeetCode Topics End-->
