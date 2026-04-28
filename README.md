@@ -20,6 +20,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0699-falling-squares](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0699-falling-squares/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2284-sender-with-largest-word-count](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2284-sender-with-largest-word-count/) | Medium |
@@ -47,6 +48,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0047-permutations-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0047-permutations-ii/) | Medium |
 | [0218-the-skyline-problem](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0218-the-skyline-problem/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Binary Search
@@ -72,6 +74,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0069-sqrtx](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -134,6 +137,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0074-search-a-2d-matrix](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
