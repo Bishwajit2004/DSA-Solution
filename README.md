@@ -60,6 +60,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0033-search-in-rotated-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Hash Table
@@ -134,6 +135,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0396-rotate-function](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0396-rotate-function/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0788-rotated-digits](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0788-rotated-digits/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2262-total-appeal-of-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
@@ -162,12 +164,14 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
@@ -203,6 +207,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -238,6 +243,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1803-count-pairs-with-xor-in-a-range/) | Hard |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
 ## Binary Search Tree
@@ -248,4 +254,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 <!---LeetCode Topics End-->
