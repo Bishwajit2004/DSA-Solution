@@ -91,6 +91,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0068-text-justification](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0071-simplify-path/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0796-rotate-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
@@ -160,6 +161,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0796-rotate-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
