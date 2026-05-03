@@ -15,6 +15,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0047-permutations-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0047-permutations-ii/) | Medium |
 | [0068-text-justification](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0218-the-skyline-problem](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0218-the-skyline-problem/) | Hard |
 | [0396-rotate-function](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0396-rotate-function/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -41,6 +42,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0031-next-permutation/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -49,6 +51,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0016-3sum-closest](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0047-permutations-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0218-the-skyline-problem](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0218-the-skyline-problem/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
