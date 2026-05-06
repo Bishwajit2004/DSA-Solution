@@ -91,6 +91,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0788-rotated-digits](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0788-rotated-digits/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [2384-largest-palindromic-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
