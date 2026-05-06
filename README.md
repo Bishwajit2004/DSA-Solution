@@ -24,6 +24,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1803-count-pairs-with-xor-in-a-range/) | Hard |
+| [1861-rotating-the-box](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1861-rotating-the-box/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -45,6 +46,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0031-next-permutation](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [1861-rotating-the-box](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1861-rotating-the-box/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -159,6 +161,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0074-search-a-2d-matrix](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1861-rotating-the-box](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1861-rotating-the-box/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Trie
