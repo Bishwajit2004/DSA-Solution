@@ -21,6 +21,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0396-rotate-function](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0396-rotate-function/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0699-falling-squares](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0699-falling-squares/) | Hard |
+| [0819-most-common-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0819-most-common-word/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1803-count-pairs-with-xor-in-a-range/) | Hard |
@@ -74,6 +75,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0013-roman-to-integer/) | Easy |
+| [0819-most-common-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0819-most-common-word/) | Easy |
 | [2262-total-appeal-of-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2284-sender-with-largest-word-count](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2384-largest-palindromic-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2384-largest-palindromic-number/) | Medium |
@@ -100,6 +102,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0071-simplify-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0071-simplify-path/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0796-rotate-string/) | Easy |
+| [0819-most-common-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0819-most-common-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
@@ -202,6 +205,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0819-most-common-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0819-most-common-word/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2384-largest-palindromic-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2833-furthest-point-from-origin/) | Easy |
