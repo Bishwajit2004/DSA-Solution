@@ -101,6 +101,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0068-text-justification](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0071-simplify-path/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0819-most-common-word/) | Easy |
@@ -148,6 +149,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0396-rotate-function](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0396-rotate-function/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0788-rotated-digits](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0788-rotated-digits/) | Medium |
