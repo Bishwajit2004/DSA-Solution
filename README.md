@@ -75,6 +75,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0013-roman-to-integer/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0819-most-common-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0819-most-common-word/) | Easy |
 | [2262-total-appeal-of-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2284-sender-with-largest-word-count](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2284-sender-with-largest-word-count/) | Medium |
@@ -102,6 +103,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0068-text-justification](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0071-simplify-path/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0205-isomorphic-strings](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0819-most-common-word/) | Easy |
