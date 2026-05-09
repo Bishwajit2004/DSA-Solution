@@ -37,6 +37,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2615-sum-of-distances](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2615-sum-of-distances/) | Medium |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
+| [2931-maximum-spending-after-buying-items](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2931-maximum-spending-after-buying-items/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Two Pointers
@@ -64,6 +65,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
+| [2931-maximum-spending-after-buying-items](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2931-maximum-spending-after-buying-items/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -183,6 +185,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [1914-cyclically-rotating-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2931-maximum-spending-after-buying-items](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2931-maximum-spending-after-buying-items/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +233,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2384-largest-palindromic-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2384-largest-palindromic-number/) | Medium |
+| [2931-maximum-spending-after-buying-items](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2931-maximum-spending-after-buying-items/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +282,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0218-the-skyline-problem/) | Hard |
+| [2931-maximum-spending-after-buying-items](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2931-maximum-spending-after-buying-items/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
