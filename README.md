@@ -24,6 +24,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0819-most-common-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0819-most-common-word/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1655-distribute-repeating-integers](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1803-count-pairs-with-xor-in-a-range/) | Hard |
 | [1861-rotating-the-box](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -79,6 +80,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0013-roman-to-integer](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0819-most-common-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0819-most-common-word/) | Easy |
+| [1655-distribute-repeating-integers](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [2262-total-appeal-of-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2284-sender-with-largest-word-count](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2384-largest-palindromic-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2384-largest-palindromic-number/) | Medium |
@@ -133,6 +135,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0047-permutations-ii/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [1655-distribute-repeating-integers](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1655-distribute-repeating-integers/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +164,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0576-out-of-boundary-paths](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0788-rotated-digits](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0788-rotated-digits/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1655-distribute-repeating-integers](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [2262-total-appeal-of-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
@@ -218,6 +222,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0819-most-common-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0819-most-common-word/) | Easy |
+| [1655-distribute-repeating-integers](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [2284-sender-with-largest-word-count](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2384-largest-palindromic-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -277,6 +282,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1655-distribute-repeating-integers](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1803-count-pairs-with-xor-in-a-range/) | Hard |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
 ## Binary Search Tree
@@ -296,4 +302,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1655-distribute-repeating-integers](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1655-distribute-repeating-integers/) | Hard |
 <!---LeetCode Topics End-->
