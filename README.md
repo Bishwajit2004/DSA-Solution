@@ -36,6 +36,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2615-sum-of-distances](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2615-sum-of-distances/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
 | [2931-maximum-spending-after-buying-items](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2931-maximum-spending-after-buying-items/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -169,6 +170,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [1655-distribute-repeating-integers](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [2262-total-appeal-of-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
