@@ -118,6 +118,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0657-robot-return-to-origin](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0819-most-common-word/) | Easy |
+| [1871-jump-game-vii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1871-jump-game-vii/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
@@ -172,6 +173,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0788-rotated-digits](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0788-rotated-digits/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1655-distribute-repeating-integers/) | Hard |
+| [1871-jump-game-vii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1871-jump-game-vii/) | Medium |
 | [2262-total-appeal-of-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -244,6 +246,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1871-jump-game-vii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1871-jump-game-vii/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2615-sum-of-distances](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2615-sum-of-distances/) | Medium |
@@ -318,4 +321,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1655-distribute-repeating-integers](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1655-distribute-repeating-integers/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1871-jump-game-vii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1871-jump-game-vii/) | Medium |
 <!---LeetCode Topics End-->
