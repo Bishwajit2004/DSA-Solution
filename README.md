@@ -14,6 +14,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0033-search-in-rotated-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0047-permutations-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0048-rotate-image/) | Medium |
+| [0055-jump-game](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0055-jump-game/) | Medium |
 | [0068-text-justification](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0088-merge-sorted-array/) | Easy |
@@ -162,6 +163,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0132-palindrome-partitioning-ii/) | Hard |
@@ -236,6 +238,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0055-jump-game/) | Medium |
 | [2384-largest-palindromic-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2931-maximum-spending-after-buying-items](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2931-maximum-spending-after-buying-items/) | Hard |
 ## Prefix Sum
