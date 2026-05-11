@@ -34,6 +34,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [2284-sender-with-largest-word-count](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2615-sum-of-distances](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2615-sum-of-distances/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -157,6 +158,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0657-robot-return-to-origin](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
