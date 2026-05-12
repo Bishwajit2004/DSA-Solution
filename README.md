@@ -26,6 +26,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1655-distribute-repeating-integers/) | Hard |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1803-count-pairs-with-xor-in-a-range/) | Hard |
 | [1861-rotating-the-box](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -66,6 +67,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0088-merge-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0218-the-skyline-problem](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0218-the-skyline-problem/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2931-maximum-spending-after-buying-items](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2931-maximum-spending-after-buying-items/) | Hard |
@@ -241,6 +243,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0055-jump-game/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2384-largest-palindromic-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2931-maximum-spending-after-buying-items](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2931-maximum-spending-after-buying-items/) | Hard |
 ## Prefix Sum
