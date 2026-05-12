@@ -18,6 +18,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0068-text-justification](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0218-the-skyline-problem](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0218-the-skyline-problem/) | Hard |
 | [0396-rotate-function](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0396-rotate-function/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -85,6 +86,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0013-roman-to-integer/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0205-isomorphic-strings](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0819-most-common-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0819-most-common-word/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1655-distribute-repeating-integers/) | Hard |
@@ -100,6 +102,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0048-rotate-image](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0396-rotate-function](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0396-rotate-function/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0788-rotated-digits](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0788-rotated-digits/) | Medium |
@@ -256,6 +259,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0149-max-points-on-a-line/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
