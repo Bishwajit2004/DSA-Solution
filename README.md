@@ -48,6 +48,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [3356-zero-array-transformation-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3660-jump-game-ix](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3660-jump-game-ix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +192,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
+| [3660-jump-game-ix](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3660-jump-game-ix/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
