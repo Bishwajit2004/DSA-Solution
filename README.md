@@ -28,6 +28,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1803-count-pairs-with-xor-in-a-range/) | Hard |
 | [1861-rotating-the-box](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -90,6 +91,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0205-isomorphic-strings](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0819-most-common-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0819-most-common-word/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1655-distribute-repeating-integers/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2262-total-appeal-of-a-string](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2284-sender-with-largest-word-count](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2384-largest-palindromic-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2384-largest-palindromic-number/) | Medium |
@@ -252,6 +254,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1871-jump-game-vii/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
