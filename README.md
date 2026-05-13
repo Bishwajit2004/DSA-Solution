@@ -106,6 +106,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0048-rotate-image/) | Medium |
+| [0060-permutation-sequence](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0060-permutation-sequence/) | Hard |
 | [0069-sqrtx](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0149-max-points-on-a-line/) | Hard |
@@ -164,6 +165,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0060-permutation-sequence](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0060-permutation-sequence/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
