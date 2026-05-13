@@ -24,6 +24,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0699-falling-squares](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0699-falling-squares/) | Hard |
 | [0819-most-common-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0819-most-common-word/) | Easy |
+| [1109-corporate-flight-bookings](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1655-distribute-repeating-integers/) | Hard |
@@ -257,6 +258,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1109-corporate-flight-bookings](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1871-jump-game-vii/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2381-shifting-letters-ii/) | Medium |
