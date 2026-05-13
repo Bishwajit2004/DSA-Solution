@@ -44,6 +44,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
 | [2931-maximum-spending-after-buying-items](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2931-maximum-spending-after-buying-items/) | Hard |
+| [3356-zero-array-transformation-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Two Pointers
@@ -59,6 +60,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0088-merge-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [1861-rotating-the-box](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1861-rotating-the-box/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [3356-zero-array-transformation-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3356-zero-array-transformation-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +84,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0074-search-a-2d-matrix](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
+| [3356-zero-array-transformation-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -259,6 +262,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [2381-shifting-letters-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2615-sum-of-distances](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2615-sum-of-distances/) | Medium |
+| [3356-zero-array-transformation-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3356-zero-array-transformation-ii/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
