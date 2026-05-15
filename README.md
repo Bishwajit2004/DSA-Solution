@@ -19,6 +19,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0074-search-a-2d-matrix](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0218-the-skyline-problem](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0218-the-skyline-problem/) | Hard |
 | [0396-rotate-function](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0396-rotate-function/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -84,6 +85,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0033-search-in-rotated-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3356-zero-array-transformation-ii/) | Medium |
