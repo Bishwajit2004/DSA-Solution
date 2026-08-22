@@ -18,6 +18,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0068-text-justification](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0137-single-number-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0218-the-skyline-problem](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0218-the-skyline-problem/) | Hard |
@@ -321,6 +322,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0137-single-number-ii/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1803-count-pairs-with-xor-in-a-range/) | Hard |
