@@ -121,6 +121,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## String
 | Problem Name | Difficulty |
