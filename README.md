@@ -37,6 +37,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [1861-rotating-the-box](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2284-sender-with-largest-word-count](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2284-sender-with-largest-word-count/) | Medium |
@@ -67,6 +68,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0287-find-the-duplicate-number](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1861-rotating-the-box](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1861-rotating-the-box/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/Bishwajit2004/DSA-Solution/tree/main/3356-zero-array-transformation-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -183,6 +185,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0657-robot-return-to-origin](https://github.com/Bishwajit2004/DSA-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bishwajit2004/DSA-Solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
